@@ -1,0 +1,22 @@
+# Welcome to the ClashMaster Repo
+
+## Requirements
+
+- Docker
+- Somw reasonably good hardware
+- Ability of CPUto virtuslive
+
+### Tested emulators you can use
+
+- MEMu
+- Bluestacks (good)
+- Nox (Also good)
+
+### Notes
+
+You cannot run this in a VM 
+The logic is very basic
+
+## Contributing
+
+Just make a branxh, edit, public to server, butbut a pr with me as reviewer thnx fam
